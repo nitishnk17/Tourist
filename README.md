@@ -14,7 +14,7 @@ Tourist is a website where users can create and review Places. In order to revie
 
 * Users can review Places once, and edit or remove their review
 
-* User profiles include more information on the user (full name, email, phone, join date), their Place, and the option to edit their profile or delete their account
+* User profiles include more information on the user (full name, email), their Place, and the option to edit their profile or delete their account
 
 * Search Place by name or location
 
