@@ -10,15 +10,14 @@ Tourist is a website where users can create and review Places. In order to revie
 
 ## Features
 
-* Users can create, edit, and remove campgrounds
+* Users can create, edit, and remove Place
 
-* Users can review campgrounds once, and edit or remove their review
+* Users can review Places once, and edit or remove their review
 
-* User profiles include more information on the user (full name, email, phone, join date), their campgrounds, and the option to edit their profile or delete their account
+* User profiles include more information on the user (full name, email, phone, join date), their Place, and the option to edit their profile or delete their account
 
-* Search campground by name or location
+* Search Place by name or location
 
-* Sort campgrounds by highest rating, most reviewed, lowest price, or highest price
   
   
   ## Run it locally
@@ -26,7 +25,7 @@ Tourist is a website where users can create and review Places. In order to revie
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/himanshup/yelpcamp.git
+git clone 
 cd yelpcamp
 npm install
 ```
