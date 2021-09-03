@@ -1,0 +1,53 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    url("https://images.unsplash.com/photo-1610493820488-8f2718f18270?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0.5rem 0.1rem rgba(0,0,0,0.4);
+    box-shadow: inset 0 0 5rem rgba(0,0,0,0.4); 
+}
+.cover-container {
+    max-width: 60vw;
+}
+
+
+.nav-link {
+    padding: 0.25rem 0;
+    font-weight: 700;
+    color: rgba(255,255,255,0.5);
+    margin-left: 1rem;
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link:hover {
+    color: rgba(225, 233, 235, 0.5);
+    border-bottom-color:aqua ;
+}
+
+.nav-link.active {
+    color: white;
+    border-bottom-color: aqua ;
+}
+
+.btn-secondary  {
+    color: #333;
+    text-shadow: none;
+
+}
+.btn-secondary:hover{
+    color: black;
+    text-shadow: cyan;
+}
+
+span{
+    color: aqua;
+    font-weight: bold;
+}
+
+.lead{
+    word-spacing: 0.3rem;
+    color: aliceblue;
+}
+
+

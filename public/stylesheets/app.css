@@ -1,0 +1,41 @@
+#cluster-map {
+    width: 100%;
+    height: 500px;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+#place {
+    color: black;
+    background: rgb(192, 192, 182);
+    display: block;
+}
+
+.container h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container h1 span{
+    color: cyan;
+    font-size: 3rem;
+}
+
+/* .place{
+    background-color: yellowgreen;
+    display: flex;
+
+} */
+
+
+
+#navbar {
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    url("https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 0 0 5rem rgba(0,0,0,0.4); 
+}
