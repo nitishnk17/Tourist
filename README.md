@@ -2,7 +2,7 @@
 
 ![Image 2](https://github.com/nitishnk17/Tourist/blob/main/img/img3%20(3).png?raw=true)  
 ![Image 1](https://github.com/nitishnk17/Tourist/blob/main/img/img3%20(2).png?raw=true)
-![Image 2](https://github.com/nitishnk17/Tourist/blob/main/img/img3%20(4).png?raw=true)  
+![Image 3](https://github.com/nitishnk17/Tourist/blob/main/img/img3%20(4).png?raw=true)  
 
 
 
